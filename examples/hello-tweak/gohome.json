@@ -1,0 +1,11 @@
+{
+  "name": "hello-tweak",
+  "id": "com.gohome.hello-tweak",
+  "version": "1.0.0",
+  "kind": "tweak",
+  "description": "Built with gohome",
+  "author": "gohome",
+  "filter": [
+    "com.apple.springboard"
+  ]
+}
